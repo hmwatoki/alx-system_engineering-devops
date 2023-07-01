@@ -10,4 +10,4 @@ PID=$!
 sleep 5
 
 # Stop the process using kill
-kill $PID
+kill "$PID"
